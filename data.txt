@@ -36,3 +36,7 @@ You should now be able to use OpenCV in your C++ projects. Remember to include t
 
 
 
+
+fatal: error reading section header 'shallow-info'
+
+
