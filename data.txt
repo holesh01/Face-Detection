@@ -35,6 +35,7 @@ You should now be able to use OpenCV in your C++ projects. Remember to include t
 #include <opencv2/opencv.hpp>
 
 
+g++ -o programName fileName.cpp `pkg-config --cflags --libs opencv`
 
 
 fatal: error reading section header 'shallow-info'
